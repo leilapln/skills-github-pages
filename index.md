@@ -1,7 +1,6 @@
 ---
-title: This is my blog!
+title: Leila Pahlavan CV
 ---
-# Leila Pahlavan CV
 ## EDUCATION
 Sharif University of Technology, Tehran
 M.Sc. in Transportation Engineering
